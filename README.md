@@ -1,3 +1,8 @@
+Some blockchain papers before 2017
+https://cryptographylab.bitbucket.io/BlockchainBib.html
+
+
+
 # Academic Blockchain Papers
 A curated blockchain-related academic papers. All papers are sorted based on the conference name and published year. 
 
